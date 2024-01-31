@@ -1,0 +1,10 @@
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\bin\Debug\Задание 3.exe.config
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\bin\Debug\Задание 3.exe
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\bin\Debug\Задание 3.pdb
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\obj\Debug\Задание 3.csproj.AssemblyReference.cache
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\obj\Debug\Задание_3.Form1.resources
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\obj\Debug\Задание_3.Properties.Resources.resources
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\obj\Debug\Задание 3.csproj.GenerateResource.cache
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\obj\Debug\Задание 3.csproj.CoreCompileInputs.cache
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\obj\Debug\Задание 3.exe
+D:\колледж\3 курс\C#\ПР18_Модули\Задание 3\obj\Debug\Задание 3.pdb
